@@ -11,7 +11,7 @@ Features
 Format of textfiles to be read in
 ==================
 
-The format of the files should handle all of the cases shown below (note that TCP and SSH are examples and other protocols/ports should be supported):
+The format of the files should handle all of the cases shown below (note that TCP and SSH are examples and other protocols/ports should be supported, see parse_data() method to get an idea of what's supported):
 - 192.168.0.4/24 TCP SSH
 - 192.168.0.4/24 tcp ssh
 - 192.168.0.4/24 TCP 22
