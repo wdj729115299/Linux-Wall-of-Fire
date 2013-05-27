@@ -1,7 +1,7 @@
 Linux-Wall-of-Fire
 ==================
 
-My linux adaptive firewall kernel module. Makes use of netfilter hooks and yes, this version does read in a text file from kernel space ;).
+Linux adaptive firewall kernel module. Makes use of netfilter hooks and yes, this version does read in a text file from kernel space.
 
 Features
 ==================
