@@ -28,3 +28,7 @@ Things to do
 
 - Get spinlocks to work and make a version that doesn't read in a textfile from kernel space.
 
+Disclaimer
+==================
+
+- Use this code at your own risk, works fine on all my linux boxes.
