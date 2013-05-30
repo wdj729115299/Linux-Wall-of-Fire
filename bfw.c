@@ -918,5 +918,5 @@ module_exit(bfw_stop);
 
 /* define the license */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Barton F. Cone");
+MODULE_AUTHOR("Bart Cone");
 MODULE_DESCRIPTION("bfw: adaptive firewall");
